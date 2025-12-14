@@ -13,7 +13,7 @@ Selenium WebDriver automation framework built with Python and pytest, implementi
 - Page Object Model (POM)
 
 ## Project Structure
-```
+``
 
 automated-web-testing-framework/
 ├──pages/                 # Page Object Classes
